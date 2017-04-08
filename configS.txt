@@ -1,0 +1,6 @@
+IP 127.0.0.1 
+Server_Port 1145
+Packet_size 10
+ACK_drop 7
+ACK_corrupt 7
+Window_Size 5
